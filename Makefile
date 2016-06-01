@@ -68,6 +68,7 @@ clean:
 	rm -f *.o *.so $(libname)
 	rm -f *.gen.c*
 	rm -f *.gen.h*
+	rm -f cyrebral_version.h*
 
 ##### pattern rules to build all object files from source #####
 

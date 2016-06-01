@@ -1,0 +1,4 @@
+cyrebral_version.h
+*.gen.*
+*.so
+*.o
